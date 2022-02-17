@@ -4,9 +4,9 @@ function Header(){
             <nav className="nav">
                 <img className="nav-logo" src="./logo192.png"></img>
                 <ul className="nav-items">
-                    <li>Pricing</li>
-                    <li>About</li>
-                    <li>Contact Us</li>
+                    <li className="header-nav-items">Pricing</li>
+                    <li className="header-nav-items">About</li>
+                    <li className="header-nav-items">Contact Us</li>
                 </ul>
             </nav>
         </header>
